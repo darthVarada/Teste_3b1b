@@ -1,2 +1,2 @@
-file 'file:E:/pc/estudos/QUINTOANO/IADeepLeaning/meu aprendizado/Tratamento_de_dados/Teste_3b1b/media/videos/scene/720p30/partial_movie_files/BarCharExam/00000.mp4'
-file 'file:E:/pc/estudos/QUINTOANO/IADeepLeaning/meu aprendizado/Tratamento_de_dados/Teste_3b1b/media/videos/scene/720p30/partial_movie_files/BarCharExam/00001.mp4'
+file 'file:E:/pc/estudos/QUINTOANO/IADeepLeaning/meu aprendizado/Tratamento_de_dados/Teste_3b1b/media/videos/scene/720p30/partial_movie_files/BarCharExam/00000.mov'
+file 'file:E:/pc/estudos/QUINTOANO/IADeepLeaning/meu aprendizado/Tratamento_de_dados/Teste_3b1b/media/videos/scene/720p30/partial_movie_files/BarCharExam/00001.mov'
